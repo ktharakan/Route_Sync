@@ -20,28 +20,28 @@ AVG_WALKING_SPEED_METERS_PER_MINUTE = 83
 # Updated Buildings based on the table provided
 BUILDINGS_DATA = {
     "Livingston Student Center": {"lat": 40.5235, "lon": -74.4368},
-    "Tillet Hall": {"lat": 40.5230, "lon": -74.4580},
-    "James Dickson Carr Library": {"lat": 40.5228, "lon": -74.4375},
+    "Tillet Hall": {"lat": 40.521786, "lon": -74.435930},
+    "James Dickson Carr Library": {"lat": 40.522519, "lon": -74.437428},
     "Lynton Towers (North/South)": {"lat": 40.523095, "lon": -74.436237},
-    "The Quads (1, 2, 3)": {"lat": 40.5205, "lon": -74.4385},
+    "The Quads (1, 2, 3)": {"lat": 40.520594, "lon": -74.434713},
     "Livingston Recreation Center": {"lat": 40.5214, "lon": -74.4318},
-    "Beck Hall": {"lat": 40.5240, "lon": -74.4400},
-    "Lucy Stone Hall": {"lat": 40.5230, "lon": -74.4350},
-    "Janice H Levin Building": {"lat": 40.5250, "lon": -74.4390},
-    "Rutgers Business School": {"lat": 40.5248, "lon": -74.4358},
-    "Ernest A. Lynton South Towers": {"lat": 40.5245, "lon": -74.4380},
-    "U.S. Post Office": {"lat": 40.5210, "lon": -74.4395},
-    "Livingston Dining Commons": {"lat": 40.5235, "lon": -74.4583},
+    "Beck Hall": {"lat": 40.522719, "lon": -74.439542},
+    "Lucy Stone Hall": {"lat": 40.522429, "lon": -74.435533},
+    "Janice H Levin Building": {"lat": 40.523685, "lon": -74.439382},
+    "Rutgers Business School": {"lat": 40.523438, "lon": -74.440633},
+    "Ernest A. Lynton South Towers": {"lat": 40.523139, "lon": -74.435722},
+    "U.S. Post Office": {"lat": 40.521139, "lon": -74.435210},
+    "Livingston Dining Commons": {"lat": 40.522960, "lon": -74.437968},
     "Rutgers Cinema": {"lat": 40.5254, "lon": -74.4375},
     "Livingston Apartments": {"lat": 40.5259, "lon": -74.4372}
 }
 
 # Updated Bus Stops based on the table provided
 BUS_STOPS_DATA = {
-    "Livingston Plaza Bus Stop": {"lat": 40.5255, "lon": -74.4387},
-    "Livingston Student Center Bus Stop": {"lat": 40.5235, "lon": -74.4372},
+    "Livingston Plaza Bus Stop": {"lat": 40.524971, "lon": -74.438525},
+    "Livingston Student Center Bus Stop": {"lat": 40.523967, "lon": -74.436583},
     "Quads Bus Stop": {"lat": 40.519972744342354, "lon": -74.43341298505632},
-    "Busch- Livingston Health Center Bus Stop": {"lat": 40.5239, "lon": -74.4429}
+    "Busch- Livingston Health Center Bus Stop": {"lat": 40.523529, "lon": -74.442467}
 }
 
 # Direct walking distances (in MILES) from Building to Stop (from user table)
